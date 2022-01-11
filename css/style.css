@@ -38,6 +38,7 @@
         color: red;
         font-weight: bold;
         font-family: 'Abril Fatface', cursive;
+        text-decoration: underline;
       }
       .navbar-branch {
         margin-border: 50px;
